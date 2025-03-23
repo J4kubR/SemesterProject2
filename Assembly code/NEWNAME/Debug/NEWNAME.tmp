@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega644PA"</DEVICE>
+ <WORKING_DIR>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m644PAdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\Debug\NEWNAME.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>NEWNAME.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>NEWNAME.map</FILE>
+  <FILE>NEWNAME.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>6</LINE></main>
+  <rxc><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>38</LINE></rxc>
+  <standBy><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>30</LINE></standBy>
+  <close><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>46</LINE></close>
+  <open><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>86</LINE></open>
+  <closeLoop0><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>54</LINE></closeLoop0>
+  <closeLoop1><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>56</LINE></closeLoop1>
+  <closeLoop2><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>58</LINE></closeLoop2>
+  <newClose><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>66</LINE></newClose>
+  <closeConversion><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>69</LINE></closeConversion>
+  <closeContinue><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>75</LINE></closeContinue>
+  <openLoop0><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>94</LINE></openLoop0>
+  <openLoop1><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>96</LINE></openLoop1>
+  <openLoop2><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>98</LINE></openLoop2>
+  <newOpen><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>106</LINE></newOpen>
+  <openConversion><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>109</LINE></openConversion>
+  <openContinue><FILE>C:\Users\Robin\Desktop\SDU\Datateknik\DONE-FINITO\NEWNAME\main.asm</FILE><LINE>115</LINE></openContinue>
+ </LABELS>
+</ASSEMBLER_INFO>
