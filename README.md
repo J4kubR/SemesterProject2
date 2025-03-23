@@ -1,5 +1,5 @@
 # Semester Project 2
-The Project was about developing a brick sorting algorithm for the UR5 robotic arm, with the usage of C++ for the overall GUI and connection between software and hardware, Assembly for the Atmega644 board and 3d printing an usable gripper to mount on the UR5 arm.
+The Project was about developing a brick sorting algorithm for the UR5 robotic arm, with the usage of C++ for the overall GUI and connection between software and hardware, Assembly for the Atmega644 board and 3d printing an usable gripper to mount on the UR5 arm. I was responsible for overseeing the total progress of the project and the whole C++ code.
 
 When opening the assembly file "Gripper_peter_done.iam" in Autodesk Inventor. Just press "skip All" when prompted for "missing parts".
 
